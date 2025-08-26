@@ -1,0 +1,24 @@
+{
+  "dropdown": [
+    {
+      "country": "japan",
+      "color" : "blue",
+      "animal": "cat"
+    },
+    {
+      "country": "usa",
+      "color" : "green",
+      "animal": "dog"
+    },
+    {
+      "country": "canada",
+      "color" : "white",
+      "animal": "deer"
+    },
+        {
+      "country": "uk",
+      "color" : "red",
+      "animal": "giraffe"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "name": "Kirill",
+            "email": "example@mail.ru",
+            "phone": "9990001122",
+            "address": "1121 EMERY FORT COLLINS CO 80521-1279 USA",
+            "gender": "male",
+            "days": ["monday", "wednesday", "saturday"]
+        },
+        {
+            "name": "Anna",
+            "email": "anna@mail.ru",
+            "phone": "8880001122",
+            "address": "1234 SOMEWHERE ST, CITY, COUNTRY",
+            "gender": "female",
+            "days": ["wednesday", "friday"]
+        },
+        {
+            "name": "John",
+            "email": "john@mail.com",
+            "phone": "7770001122",
+            "address": "5678 ANYWHERE AVE, CITY, COUNTRY",
+            "gender": "male",
+            "days": []
+        }
+    ]
+}
