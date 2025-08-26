@@ -18,7 +18,7 @@
 
 ## 💻 Демонстрация отчета
 
-Отчет представлен на странице: 
+Отчет представлен на странице: https://kkkkkirin.github.io/Selenium_Auto_Testing_Practice/
 
 
 ## ✍️ About Project
@@ -39,4 +39,4 @@ informational reports about testing.
 
 ## 💻 Report Demonstration 
 
-the report is presented on the page: 
+The report is presented on the page: https://kkkkkirin.github.io/Selenium_Auto_Testing_Practice/
