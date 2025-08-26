@@ -1,9 +1,9 @@
 name: Selenium tests
 
-on: push
+on: workflow_dispatch
 
 jobs:
-  running_test:
+  running_tests:
     runs-on: ubuntu-latest
 
     steps:
