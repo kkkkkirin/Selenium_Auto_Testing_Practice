@@ -1,6 +1,6 @@
 name: Selenium tests
 
-on: workflow_dispatch
+on: push
 
 jobs:
   running_test:
